@@ -9,3 +9,5 @@
 
 Если вы хотите помочь с организацией мероприятия, посмотрите открытые задачки с лейблами https://github.com/tech-connect-meetups/tech_vlc/labels/help%20wanted)https://github.com/tech-connect-meetups/tech_vlc/labels/help%20wanted и https://github.com/tech-connect-meetups/tech_vlc/labels/backlog
 
+[Тема](https://github.com/tech-connect-meetups/tech_vlc/discussions/5), где можно предложить коворкинг или пространство для проведения митапа
+
