@@ -37,3 +37,5 @@
 
 📖 [Посмотреть на участников и представиться](https://github.com/tech-connect-meetups/tech_vlc/discussions/10)
 
+[Логотипы](https://drive.google.com/drive/folders/1cPLx0tITiT7G4DaF236eiCgpsQLlF3ms?usp=sharing)
+
