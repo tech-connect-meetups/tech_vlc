@@ -1,4 +1,11 @@
+---
+name: Meetup kickoff
+about: Шаблон для первой встречи по подготовке мероприятия
+title: ''
+labels: ''
+assignees: ''
 
+---
 
 ## Идеи формата
 - 
