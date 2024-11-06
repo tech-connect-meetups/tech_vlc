@@ -45,10 +45,17 @@
 [Логотипы](https://drive.google.com/drive/folders/1cPLx0tITiT7G4DaF236eiCgpsQLlF3ms?usp=sharing)
 
 ## История мероприятий
+
 2024-02-29 [Запуск комьюнити](https://github.com/tech-connect-meetups/tech_vlc/issues/1), 65 чел
+
 2024-04-23 [Митап с продуктовым и техническим докладом](https://github.com/tech-connect-meetups/tech_vlc/issues/11), 41 чел
+
 2024-05-31 [Первый пикник](https://github.com/tech-connect-meetups/tech_vlc/issues/13), 42 чел
+
 2024-06-10 [Бар митап](https://github.com/tech-connect-meetups/tech_vlc/issues/16), 49 чел, satisfaction rate 82.5%
+
 2024-07-10 [Второй пикник](https://github.com/tech-connect-meetups/tech_vlc/issues/19), 35 чел, Satisfaction rate: 96,7%
+
 2024-19-29 М[енеджерские разговоры](https://github.com/tech-connect-meetups/tech_vlc/issues/22), 21 чел
+
 
