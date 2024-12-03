@@ -62,14 +62,15 @@
 
 2024-02-29 [Запуск комьюнити](https://github.com/tech-connect-meetups/tech_vlc/issues/1), 65 чел
 
-2024-04-23 [Митап с продуктовым и техническим докладом](https://github.com/tech-connect-meetups/tech_vlc/issues/11), 41 чел
+2024-04-23 [Митап с продуктовым и техническим докладом](https://github.com/tech-connect-meetups/tech_vlc/issues/11), 41 чел, [ФОТО](https://photos.app.goo.gl/LWCgTiYpd6Anxp4NA)
 
-2024-05-31 [Первый пикник](https://github.com/tech-connect-meetups/tech_vlc/issues/13), 42 чел
+2024-05-31 [Первый пикник](https://github.com/tech-connect-meetups/tech_vlc/issues/13), 42 чел, [ФОТО](https://drive.google.com/drive/folders/1TT4vXcq_VXOvyd63lxGg9oVxLT7sA2wQ?usp=drive_link)
 
-2024-06-10 [Бар митап](https://github.com/tech-connect-meetups/tech_vlc/issues/16), 49 чел, satisfaction rate 82.5%
+2024-06-10 [Бар митап](https://github.com/tech-connect-meetups/tech_vlc/issues/16), 49 чел, satisfaction rate 82.5%, [ФОТО](https://drive.google.com/drive/folders/1rs4-eAKvkNVUzS73Sz7N4WowX9PLdMGC?usp=drive_link)
 
-2024-07-10 [Второй пикник](https://github.com/tech-connect-meetups/tech_vlc/issues/19), 35 чел, Satisfaction rate: 96,7%
+2024-07-10 [Второй пикник](https://github.com/tech-connect-meetups/tech_vlc/issues/19), 35 чел, Satisfaction rate 96,7%, [ФОТО](https://drive.google.com/drive/folders/1S7-v4JBLrISiGfi5mJNW1fgDFueqanz1?usp=drive_link)
 
-2024-19-29 [Менеджерские разговоры](https://github.com/tech-connect-meetups/tech_vlc/issues/22), 21 чел
+2024-10-29 [Менеджерские разговоры](https://github.com/tech-connect-meetups/tech_vlc/issues/22), 21 чел, Satisfaction rate 90,71%, [ФОТО](https://drive.google.com/drive/folders/1RLt7pk6vCXdB-8Ehz-Uald1Q7rGEC70P?usp=drive_link)
 
+2024-11-21 [Hard Mode meetup](https://github.com/tech-connect-meetups/tech_vlc/issues/24), 22 чел, Satisfaction rate, [ФОТО](https://photos.app.goo.gl/jFSkvGUs3ZAps37h7)
 
